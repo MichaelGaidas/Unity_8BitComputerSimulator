@@ -50,6 +50,6 @@ Trying out some basic programs, having a large delay time, and checking each ope
 Also, I suggest hovering over the components to see what is what and to get familiar with the scene.
 
 ## References
-Ben Eater is awesome. If you have any questions or confusions I strongly suggest watching his series on building an 8-bit computer. This is how I was able to implement the computer in Unity.
+Ben Eater is awesome. If you have any questions or confusions I strongly suggest watching his series on building an 8-bit computer. This is how I was able to implement the computer in Unity along with previous experience from school.
 
 Link: https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
