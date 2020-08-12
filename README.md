@@ -1,6 +1,8 @@
 # Unity_8BitComputerSimulator
 An 8-bit computer simulator built in Unity that shows how components of a computer actually work.
 
+![alt text](https://github.com/MichaelGaidas/Unity_8BitComputerSimulator/blob/master/8bitImg.JPG)
+
 ## Installation (for Unity Editor)
 Clone or download the repository 
 
